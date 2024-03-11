@@ -1,1 +1,3 @@
-# git_test
+
+hello its my first project
+Hello Odin!
